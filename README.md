@@ -237,7 +237,7 @@ The dataset includes:
 
 **Jayodya Thimani**
 
-🎓 BSc (Hons) Industrial Statistics & Mathematical Finance (Undergraduate)
+🎓 BSc Industrial Statistics & Mathematical Finance (Undergraduate)
 
 University of Colombo
 
